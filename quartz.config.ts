@@ -10,7 +10,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "hanLabZ.github.io/vault",
+    baseUrl: "hanlaboratory.github.io/vault",
     ignorePatterns: ["private", "_bin", "_inbox", ".obsidian"],
     defaultDateType: "created",
     theme: {
